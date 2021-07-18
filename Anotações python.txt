@@ -1,0 +1,8 @@
+para comentar usar #
+limpar tela, segura shift com as flexinhas
+para levar um numero a exponiação **
+\n - pular pra linha de baixo
+sep="%" - escolhe o que vai ter entre as palavras
+pais = Italia, type(pais) dai ele diz qual a classe
+input() para "falar" algo
+15/10/2015
