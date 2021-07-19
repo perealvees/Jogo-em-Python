@@ -4,5 +4,12 @@ para levar um numero a exponiação **
 \n - pular pra linha de baixo
 sep="%" - escolhe o que vai ter entre as palavras
 pais = Italia, type(pais) dai ele diz qual a classe
-input() para "falar" algo
+input() para "falar" e memoriza o que digitou
 15/10/2015
+
+função int() para converter formato de classe
+o sinal de + serve para concatenar
+
+diferença python para 2 e 3:
+3 precisa usar parenteses
+o 2 confunde o int com str 
